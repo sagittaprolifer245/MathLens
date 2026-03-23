@@ -17,3 +17,7 @@ output/
 *.wav
 *.mp3
 audio/
+
+# 允许 resource/ 目录的演示素材
+!resource/
+!resource/**
